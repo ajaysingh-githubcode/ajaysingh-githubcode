@@ -4,8 +4,8 @@
  <br/>
  
 - 🔭 I'm currently working on Frontend-Backend development project - Ecommerce [...will add more ]
-- ⚡ [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,vscode,tailwind,java,github&perline=12)]
 - 😄 My Strength: I am Energetic, Self-motivated person
+- ⚡ My Skills: https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,vscode,tailwind,java,github&perline=12
 
 ### Connect with me:
 <div id="badges">
