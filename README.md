@@ -1,5 +1,6 @@
  <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=400&height=50&duration=3000&lines=Hi+👋,+I'm+Ajay+Singh;"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=400&height=50&lines=Hi+👋,+I'm+Ajay+Singh;"/>
+  ## Hi, I'm [AJAY SINGH][website] 👋
  </h1>
  
 - 🔭 I'm currently working on Frontend-Backend development project - Ecommerce [.....will add more ]
@@ -9,6 +10,9 @@
 <div>
 <h2>⚒️ Skills ⚒️</h2>
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,vscode,tailwind,java,github"/><br/>
+<code><img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
+[<img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactnativeplaylist]
+
 </div>
 
 ### Connect with me:
