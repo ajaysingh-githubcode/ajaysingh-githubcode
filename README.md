@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&repeat=false&width=400&height=50&lines=Hi+👋,+I'm+Ajay+Singh;"/>
  </h1>
  
-- 🔭 I'm currently working on Frontend-Backend development project - Ecommerce [.....will add more projects ]
+- 🔭 I'm currently working on Frontend-Backend development project based on React [.....will add more projects ]
 
 - 😄 My Strength: I am Energetic, Self-motivated person
 
